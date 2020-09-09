@@ -1,0 +1,1 @@
+this folder are for xml files of the html docs
